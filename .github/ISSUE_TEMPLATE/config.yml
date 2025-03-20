@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Bitcoin 3.0 Core Security Policy
+    url: https://github.com/bitcoin/bitcoin/blob/master/SECURITY.md
+    about: View security policy
+  - name: Bitcoin 3.0 Core Developers
+    url: https://bitcoincore.org
+    about: Bitcoin 3.0 Core homepage
